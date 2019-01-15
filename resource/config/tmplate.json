@@ -1,0 +1,38 @@
+{"mc":{
+	"plate":{
+		"frameRate":2,
+		"labels":[
+			{"name":"plate","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"icon_d1",
+			"x":5,
+			"y":1
+			},
+			{
+			"res":"icon_d2",
+			"x":1,
+			"y":1
+			},
+			{
+			"res":"icon_d1",
+			"x":5,
+			"y":1
+			},
+			{
+			"res":"icon_d2",
+			"x":1,
+			"y":1
+			}
+			]
+}},
+	"res":{
+		"icon_d2":{"x":1,"y":80,"w":162,"h":77},
+		"icon_d1":{"x":1,"y":1,"w":162,"h":77}
+	}}

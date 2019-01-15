@@ -1,0 +1,52 @@
+{
+    "1670c6a1ae9": {
+        "path": "game\\MainScene.ts",
+        "class": "MainScene",
+        "parentPath": ""
+    },
+    "16711596f72": {
+        "path": "game\\play\\HoodleUI.ts",
+        "class": "HoodleUI",
+        "parentPath": ""
+    },
+    "1675eac54eb": {
+        "path": "game\\play\\RankingUI.ts",
+        "class": "RankingUI",
+        "parentPath": ""
+    },
+    "16763cdc5dc": {
+        "path": "game\\play\\CheckUI.ts",
+        "class": "CheckUI",
+        "parentPath": ""
+    },
+    "16763d16eb1": {
+        "path": "game\\play\\ChooseUI.ts",
+        "class": "ChooseUI",
+        "parentPath": ""
+    },
+    "16763d2a62c": {
+        "path": "game\\play\\CheckUI.ts",
+        "class": "CheckUI",
+        "parentPath": ""
+    },
+    "167c00f2a13": {
+        "path": "game\\play\\MainInfo.ts",
+        "class": "MainInfo",
+        "parentPath": ""
+    },
+    "167c010ac9b": {
+        "path": "game\\play\\MainInfo.ts",
+        "class": "MainInfo",
+        "parentPath": ""
+    },
+    "167cec7328d": {
+        "path": "game\\play\\ErrUI.ts",
+        "class": "ErrUI",
+        "parentPath": ""
+    },
+    "167e8225674": {
+        "path": "game\\play\\PlayInfo.ts",
+        "class": "PlayInfo",
+        "parentPath": ""
+    }
+}

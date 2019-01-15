@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayInfoSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="167e8225674" ></w:Config>
+	<!--<e:Image source="play_bg_jpg"/>
+	<e:Image source="play_ufo_png" horizontalCenter="0" y="90"/>
+	<e:Image source="handle_png" horizontalCenter="0" y="220"/>-->
+	<e:Image id="imgPoint" source="icon_point_png" y="233" anchorOffsetX="9.5" x="320.5"/>
+	<e:Image id="imgHand" source="icon_hand_png" x="320.5"  y="719" anchorOffsetX="100" anchorOffsetY="88"/>
+	<e:Label text="拖动瞄准目标" size="26" horizontalCenter="0" y="870" textColor="0xfb9905"/>
+	<e:Label text="小球撞击方块即得分" y="916"  height="34" anchorOffsetX="0" width="338" x="149" textAlign="center" anchorOffsetY="0"/>
+	<e:Label text="方块上升到发球位置即失败" y="956"  height="42" anchorOffsetX="0" width="392" x="124" textAlign="center"/>
+</e:Skin>

@@ -37,7 +37,7 @@
 		"resource/eui_skins/ToggleSwitchSkin.exml",
 		"resource/eui_skins/VScrollBarSkin.exml",
 		"resource/eui_skins/VSliderSkin.exml",
-		"resource/eui/Btn_black.exml",
+		"resource/eui/Btn_blackSkin.exml",
 		"resource/eui/CheckUI.exml",
 		"resource/eui/ErrUI.exml",
 		"resource/eui/LoginScene.exml",
